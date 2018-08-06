@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Dash Board" />
+        <item
+            android:id="@+id/inveast"
+            android:icon="@mipmap/ic_launcher"
+            android:title="investment Documentation" />
+        <item
+            android:id="@+id/logistics"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Logistics Tracker" />
+        <item
+            android:id="@+id/redemption"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Redemption" />
+
+    </group>
+</menu>
